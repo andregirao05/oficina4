@@ -1,0 +1,25 @@
+versao,agentes,isolamento,duracao
+A,1,read committed,229.98428511619568
+A,2,read committed,201.55158495903015
+A,4,read committed,201.09347438812256
+A,6,read committed,201.0481927394867
+A,8,read committed,201.19830703735352
+A,10,read committed,200.98498344421387
+B,1,read committed,225.58832454681396
+B,2,read committed,117.19716715812683
+B,4,read committed,60.3910551071167
+B,6,read committed,41.24598169326782
+B,8,read committed,34.19222903251648
+B,10,read committed,28.9081289768219
+A,1,serializable,226.0586063861847
+A,2,serializable,231.43865036964417
+A,4,serializable,237.0535764694214
+A,6,serializable,239.10668683052063
+A,8,serializable,243.92505836486816
+A,10,serializable,259.59592723846436
+B,1,serializable,261.8040826320648
+B,2,serializable,122.9383795261383
+B,4,serializable,68.938392162323
+B,6,serializable,45.66256809234619
+B,8,serializable,34.78480935096741
+B,10,serializable,29.970860719680786

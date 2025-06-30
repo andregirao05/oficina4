@@ -1,0 +1,25 @@
+versao,agentes,isolamento,deadlocks,rollbacks
+A,1,read committed,0,0
+A,1,serializable,0,0
+A,2,read committed,0,0
+A,2,serializable,0,200
+A,4,read committed,0,0
+A,4,serializable,0,600
+A,6,read committed,0,0
+A,6,serializable,0,1000
+A,8,read committed,0,0
+A,8,serializable,0,1400
+A,10,read committed,0,0
+A,10,serializable,0,1757
+B,1,read committed,0,0
+B,1,serializable,0,0
+B,2,read committed,0,5
+B,2,serializable,0,5
+B,4,read committed,0,10
+B,4,serializable,0,19
+B,6,read committed,0,13
+B,6,serializable,0,32
+B,8,read committed,0,35
+B,8,serializable,0,31
+B,10,read committed,0,44
+B,10,serializable,0,43
